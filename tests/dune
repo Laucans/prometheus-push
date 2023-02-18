@@ -1,0 +1,4 @@
+(test
+ (name test)
+ (package example)
+ (libraries prometheus prometheus_push alcotest alcotest-lwt fmt))
